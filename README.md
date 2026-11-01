@@ -49,7 +49,7 @@ Want to explore or run any of my projects?
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/varunnhiremath4/python-playground.git
+   git clone https://github.com/varunnhiremath4/Python-Playground.git
    ```
 
 2. Navigate into the repository:
