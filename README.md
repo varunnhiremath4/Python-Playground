@@ -88,4 +88,4 @@ Feel free to explore the repository and share your thoughts!
 
 **Keep Learning. Keep Building. Keep Growing.** 🚀
 
-*Made with ❤️ and Python.*
+*Crafted with ❤️ by Varun, powered by Python.*
