@@ -1,5 +1,5 @@
-import random
-import string
+lazy import random
+lazy import string
 
 print("="*35)
 print("Secret Code Language Translator🔐")
