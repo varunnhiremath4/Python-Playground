@@ -1,16 +1,12 @@
 print("#"*30)
 print("      MINI ATM")
 print("#"*30)
-
 print("1. Check Balance")
 print("2. Deposit Money")
 print("3. Withdraw Money")
 print("4. Exit")
-
 Choose = int(input("Choose Your Option From 1/2/3/4: "))
-
 Balance = 1000 
-
 while Choose != 4:
     if Choose == 1:
         print("Your current balance is: ", Balance)
@@ -38,6 +34,5 @@ while Choose != 4:
     print("4. Exit")
 
     Choose = int(input("Choose Your Option From 1/2/3/4: "))        
-
 if Choose == 4:
     print("Thank You!, Please Remove your Card")
